@@ -9,4 +9,8 @@ Repository for the [I Programmer YouTube Channel](https://www.youtube.com/channe
 
 [Ep 3 - Building a snake game in asp pt1](https://www.youtube.com/watch?v=sPkRtHJa_cM)
 
+[Ep 4 - How to Write a Unix Command Line Utility in C pt2]
 
+[Ep4 5 - Macbook Pro 16 Unboxing]
+
+[Ep 6 - Hello World Series]
