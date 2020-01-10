@@ -1,24 +1,24 @@
 
 class Car:
 	def __init__( self ):
-		print( "Car created.\n" )
+		print( "Car created." )
 
 	def __del__( self ):
-		print( "Car destroyed.\n" )
+		print( "Car destroyed." )
 
 	def openAshtray( self ):
-		print( "Ashtray opened.\n" )
+		print( "Ashtray opened." )
 
 class SpyCar( Car ):
 	def __init__( self ):
-		print( "SpyCar created.\n" )
+		print( "SpyCar created." )
 
 	def __del__( self ):
-		print( "SpyCar destroyed.\n" )
+		print( "SpyCar destroyed." )
 
 	def openAshtray( self ):
 		super().openAshtray()
-		print( "Ejector seat deployed.\n" )
+		print( "Ejector seat deployed." )
 
 car = Car()
 spyCar = SpyCar()
